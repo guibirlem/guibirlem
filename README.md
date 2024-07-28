@@ -5,7 +5,7 @@
 - 📫 Reach me on linkedin or github!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact :🏍️ lover
-  pt-br/en
+-  pt-br/en-us
 
 <!---
 guibirlem/guibirlem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
