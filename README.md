@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guibirlem
-- 👀 looking for a chance to show my web tecniques and skills!
+- 👀 looking for a chance to show my web techniques and skills!
 - 🌱 I’m currently learning javascript and php!
 - 💞️ I’m looking to collaborate on websites projects.
 - 📫 Reach me on linkedin or github!
