@@ -12,7 +12,12 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
+## Estatísticas do GitHub:
+
 ![guibirlem's GitHub stats](https://github-readme-stats.vercel.app/api?username=guibirlem&show_icons=true&theme=dark)
 
+## Linguagens mais usadas:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guibirlem&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>Caso queira entrar em contato fique à vontade!<br>Tenho muita vontade de trabalhar e desenvolver mais habilidades com tecnologia!</p>
